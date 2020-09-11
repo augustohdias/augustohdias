@@ -6,4 +6,4 @@
 
 🌱 I'm learning Rust, Node.js and React right now.
 
-You can talk to me on [twitter](https://twitter.com/paiolzin) or [linkedin](https://linkedin.com/in/dias-augusto).
+You can talk to me on [twitter](https://twitter.com/augustohdias) or [linkedin](https://linkedin.com/in/dias-augusto).
