@@ -1,6 +1,6 @@
 ### Hey! :rocket:
 
-✨ My name is Augusto Dias. I'm working as a Software Engineer on Stilingue since 2018. Here I work mainly with Java (JDK8+) and Spring Cloud Framework.
+✨ My name is Augusto Dias. I worked as a Software Engineer on Stilingue from 2018 until late 2020. I got experience with Java (JDK8+) and Spring Framework.
 
 🔭 I like to use Go, Elixir and Haskell on some personal projects. 
 
