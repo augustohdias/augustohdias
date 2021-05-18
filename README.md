@@ -6,4 +6,4 @@
 
 🌱 I'm learning Rust and Scala right now.
 
-You can talk to me on [twitter](https://twitter.com/augustohdias) or [linkedin](https://linkedin.com/in/dias-augusto).
+You can talk to me on [linkedin](https://linkedin.com/in/dias-augusto).
