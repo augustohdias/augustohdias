@@ -1,6 +1,6 @@
 ### Hey! :rocket:
 
-✨ My name is Augusto Dias. I worked as a Software Engineer on Stilingue from 2018 until late 2020, working mostly with Java and Spring Framework. Now, I'm working (and learning) at Elo7 with a lot of Scala, Spark and other fun stuff.
+✨ My name is Augusto Dias. I worked as a Software Engineer on Stilingue from 2018 until late 2020, then in Elo7 from 2020 to early 2022, working mostly with Java, Scala, Spark, Akka, Spring and a whole lot of fun stuff. Now, I'm building medical systems with cool people at Pixeon ;)
 
 🔭 I like to use Go, Elixir and Haskell on some personal projects. 
 
