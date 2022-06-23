@@ -4,6 +4,6 @@
 
 🔭 I like to use Go, Elixir and Haskell on some personal projects. 
 
-🌱 I'm learning Rust and Scala right now.
+🌱 I'm learning Rust right now.
 
 You can talk to me on [linkedin](https://linkedin.com/in/dias-augusto).
